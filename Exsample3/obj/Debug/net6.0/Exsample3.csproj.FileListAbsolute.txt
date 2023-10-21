@@ -1,0 +1,15 @@
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Лекция 3\Exsample3\bin\Debug\net6.0\Exsample3.exe
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Лекция 3\Exsample3\bin\Debug\net6.0\Exsample3.deps.json
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Лекция 3\Exsample3\bin\Debug\net6.0\Exsample3.runtimeconfig.json
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Лекция 3\Exsample3\bin\Debug\net6.0\Exsample3.dll
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Лекция 3\Exsample3\bin\Debug\net6.0\Exsample3.pdb
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Лекция 3\Exsample3\obj\Debug\net6.0\Exsample3.csproj.AssemblyReference.cache
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Лекция 3\Exsample3\obj\Debug\net6.0\Exsample3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Лекция 3\Exsample3\obj\Debug\net6.0\Exsample3.AssemblyInfoInputs.cache
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Лекция 3\Exsample3\obj\Debug\net6.0\Exsample3.AssemblyInfo.cs
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Лекция 3\Exsample3\obj\Debug\net6.0\Exsample3.csproj.CoreCompileInputs.cache
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Лекция 3\Exsample3\obj\Debug\net6.0\Exsample3.dll
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Лекция 3\Exsample3\obj\Debug\net6.0\refint\Exsample3.dll
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Лекция 3\Exsample3\obj\Debug\net6.0\Exsample3.pdb
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Лекция 3\Exsample3\obj\Debug\net6.0\Exsample3.genruntimeconfig.cache
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Лекция 3\Exsample3\obj\Debug\net6.0\ref\Exsample3.dll

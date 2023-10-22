@@ -10,14 +10,14 @@ void Method2(string msg)
 {
     Console.WriteLine(msg);
 }
-Method2(msg: "Текст сообщения");
+// Method2(msg: "Текст сообщения");
 
 void Method21(string msg, int count)
 {
     int i = 0;
     while (i < count)
     {
-        Console.WriteLine();
+        Console.WriteLine(msg);
         i++;
     }
 }
@@ -32,10 +32,23 @@ int Method3()
 }
 
 int year = Method3();
-Console.WriteLine(year);
-
+// Console.WriteLine(year);
 
 // Вид 4
+// string Method4(int count, string c)
+// {
+//     int i=0;
+//     string result = String.Empty;
+//     while (i< count)
+//     {
+//         result = result + c;
+//         i++;
+//     }
+//     return result;
+// }
+// string res = Method4(10, "Я всё могу!");
+// Console.WriteLine(res);
+
 // string Method4(int count, string text)
 // {
 //     int i = 0;
@@ -58,9 +71,9 @@ string Method4(int count, string text)
     for (int i = 0; i < count; i++)
     {
         result = result + text;
-
     }
+    return result;
 }
-
-string res = Method4(10, "2");
+string res = Method4(10, "z");
 Console.WriteLine(res);
+

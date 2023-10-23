@@ -108,3 +108,7 @@ string Replace(string text, char oldValue, char newValue)
 }
 string newText = Replace(text, ' ', '|');
 System.Console.WriteLine(newText);
+
+System.Console.WriteLine();
+newText = Replace(newText, 'к', 'К');
+System.Console.WriteLine(newText);
